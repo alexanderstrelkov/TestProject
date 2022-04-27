@@ -16,4 +16,8 @@ final class SecondViewController: UIViewController {
         subview.frame = view.bounds
         view.addSubview(subview)
     }
+    
+    func someMethod() {
+        
+    }
 }

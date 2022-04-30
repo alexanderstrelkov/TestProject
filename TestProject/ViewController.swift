@@ -23,6 +23,5 @@ class ViewController: UIViewController {
     func someMethod() {
         print("Doing something")
     }
-
 }
 

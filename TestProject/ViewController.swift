@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     func setupView() {
-        view.backgroundColor = .systemYellow
+        view.backgroundColor = .systemGreen
     }
     func setupHierarchy() {
         let newView = UIView()
